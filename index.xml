@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Big Data is growing fast on Nils Bültbrune</title>
+    <link>https://bueltbrn.github.io/nb_portfolio/</link>
+    <description>Recent content in Big Data is growing fast on Nils Bültbrune</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Apr 2017 10:58:08 -0400</lastBuildDate><atom:link href="https://bueltbrn.github.io/nb_portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 1: </title>
+      <link>https://bueltbrn.github.io/nb_portfolio/post/project-1/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://bueltbrn.github.io/nb_portfolio/post/project-1/</guid>
+      <description> Beginner project Python Jupyter Notebook (Anaconda)  </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://bueltbrn.github.io/nb_portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bueltbrn.github.io/nb_portfolio/contact/</guid>
+      <description>Follow or contact me on these social media platforms.
+   Platform URL     LinkedIn: https://www.linkedin.com/in/nils-b%C3%BCltbrune-20607014b/   Xing: https://www.xing.com/profile/Nils_Bueltbrune/cv   Twitter: https://twitter.com/bueltbrn    </description>
+    </item>
+    
+  </channel>
+</rss>
