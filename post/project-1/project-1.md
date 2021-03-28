@@ -1,12 +1,10 @@
 ---
 date: 2017-04-09T10:58:08-04:00
 description: "A Beginner Project"
-featured_image: "/images/Pope-Edouard-de-Beaumont-1844.jpg"
+featured_image: "/images/Mountains.JPG"
 tags: ["scene"]
-title: "Project 1: "
+title: "Project 1: Testing "
 ---
 
-* Beginner project
-* Python
-* Jupyter Notebook (Anaconda)
+
 * New Test
